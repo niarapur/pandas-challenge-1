@@ -1,5 +1,6 @@
-#Pandas Challenge 1
-##Module 4 Assignment work: This module involves analyzing a dataset from an e-commerce company.
+# Pandas Challenge 1
+>
+>## Module 4 Assignment work: This module involves analyzing a dataset from an e-commerce company.
 
 ***The Data:***
 >The analysis was done on a sales order dataset that contained orders from 54,639 clients and heir order details. Fields include:
@@ -10,7 +11,7 @@
 ***Files:***
 >The following files are avaiable for your review:
 > * the data is provided as a.csv and is avaiable in the resourcesz\ folder as client_dataset.csv
-> *The code to run the analysis is stored in pandas_challenge_1.ipynb.
+> *The code to run the analysis is stored in ***pandas_challenge_1.ipynb***.
 
 ***Summary Stats:***
 > The code hs been built to identify the following :
